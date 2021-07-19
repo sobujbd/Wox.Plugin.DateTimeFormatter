@@ -1,0 +1,12 @@
+{
+  "ID": "DTF18072021B436D8DFDD7BB366TDUIB",
+  "ActionKeyword": "dt",
+  "Name": "DateTimeFormatter",
+  "Description": "Format date and time using particular standard date and time format specifiers.",
+  "Author": "sobujbd",
+  "Version": "1.0.1",
+  "Language": "csharp",
+  "Website": "https://github.com/sobujbd/Wox.Plugin.DateTimeFormatter",
+  "ExecuteFileName": "Wox.Plugin.DateTimeFormatter.dll",
+  "IcoPath": "Images/icon.png"
+}
